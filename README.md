@@ -35,7 +35,9 @@
 ## 🔗 Links
 
 - ✉️ E-Mail: ksi03525@naver.com
+<!--
 - 📝 My-Page: [Notion](https://www.notion.so/1f80c4be20d580f7b9f3f33626717654)
+-->
 
 ---
 
